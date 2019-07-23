@@ -28,7 +28,13 @@ description : 디피스트 오리엔테이션 진행합니다.
 
 
 
+
+
 ![deepest](media/deepest.jpg){디피스트 스티커를 나눠주었다.}
+
+@[Deepest Blog](media/image2.png)(https://github.com/Deepest-Project/Deepest-Project-Blog){여기 회원님들이 글을 올려주셔도 됩니다.}
+
+
 
 Deepest 스티커를 나눠준다! 와아아아아아 😊😊😊
 
