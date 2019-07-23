@@ -135,6 +135,16 @@ Example:
 
 ![example_youtube](assets/example_youtube.jpg)
 
+### Quotes (upgraded)
+
+강조하고 싶은 부분을 멋드러진 quote로 처리할 수 있습니다.
+
+```
+[[I am a breakdancer, and also an AI engineer.]]{Seiok Kim}
+```
+
+![ai_quotes](assets/ai_quotes.png)
+
 ### LaTeX math equations
 
 ```
